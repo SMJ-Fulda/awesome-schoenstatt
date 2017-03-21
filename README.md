@@ -24,6 +24,11 @@ Awesome list of Schoenstatt resources
 * [Wallfahrtszentrale Schönstatt](http://www.schoenstatt-info.com) Marienschwestern
 * [schoenstatt-zentren.net](http://www.schoenstatt-zentren.net) Schönstattzentren im deutschsprachigen Raum
 
+## Schoenstatt in Germany
+* [Schönstattbewegung im Bistum Fulda](http://schoenstatt-fulda.de/)
+* [Schönstattbewegung in der Erzdiözese Paderborn](http://schoenstatt-paderborn.org/)
+* [Schönstatt in der Diözese Würzburg](https://www.schoenstatt-wuerzburg.de/)
+
 # Schoenstatt Men's Youth
 
 * [Schönstatt Jungs Schweiz](http://schoenstattjungs.ch/)
@@ -102,6 +107,8 @@ Awesome list of Schoenstatt resources
 * [Himmelwärts online](http://schhw.net/) 
 * [Auslandszeit](http://www.auslandszeit.org/)
 * [Hoffnungsvoll leben](http://www.hoffnungsvoll-leben.de/)
+* [Nacht des Heiligtums](http://nachtdesheiligtums.de/)
+* [misiones - Glauben leben](https://misiones-glauben-leben.de/)
 
 # Schoenstatt Media
 
