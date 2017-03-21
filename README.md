@@ -102,10 +102,8 @@ Awesome list of Schoenstatt resources
 * [Himmelwärts online](http://schhw.net/) 
 * [Auslandszeit](http://www.auslandszeit.org/)
 * [Hoffnungsvoll leben](http://www.hoffnungsvoll-leben.de/)
-* [Projekt Paulus](http://www.projektpaulus.de/) Fackellauf im Alltag
 
 # Schoenstatt Media
 
 * [Schönstatt-Verlag](http://www.schoenstatt-verlag.de) 
-* [Patris-Verlag](http://www.patris.de)
 * [Schoenstatt- TV](http://www.schoenstatt-tv.de)
