@@ -40,7 +40,7 @@ Awesome list of Schoenstatt resources
 
 ### Regio Mitte
 
-* [SMJ Fulda](http://www.smj-fulda.de)
+* [SMJ Fulda](http://www.smj-fulda.org)
 * [SMJ Mainz/Limburg](http://www.smj-mainz.de/)
 * [SMJ Speyer](http://www.smj-speyer.de/)
 
